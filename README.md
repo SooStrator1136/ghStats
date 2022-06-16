@@ -1,7 +1,7 @@
 # [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
 
-![overview](https://raw.githubusercontent.com/SooStrator1136/github-stats/master/generated/overview.svg)
-![languages](https://raw.githubusercontent.com/SooStrator1136/github-stats/master/generated/languages.svg)
+![overview](https://raw.githubusercontent.com/SooStrator1136/ghStats/master/generated/overview.svg)
+![languages](https://raw.githubusercontent.com/SooStrator1136/ghStats/master/generated/languages.svg)
 
 Generate visualizations of GitHub user and repository statistics with GitHub
 Actions. Visualizations can include data for both private repositories, and for
