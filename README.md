@@ -10,6 +10,9 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
 <img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
 </a>
 
+![](https://raw.githubusercontent.com/SooStrator1136/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/SooStrator1136/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
 Generate visualizations of GitHub user and repository statistics with GitHub
 Actions. Visualizations can include data for both private repositories, and for
 repositories you have contributed to, but do not own.
